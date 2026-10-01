@@ -1,0 +1,11 @@
+/.vs
+/Release
+/Debug
+/output
+/output/release
+/supremacy_csgo
+*.obj
+*.tlog
+*.log
+*.recipe
+*.dll
